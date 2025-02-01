@@ -1,0 +1,2 @@
+# exercicioDjango
+Exercicio de django
